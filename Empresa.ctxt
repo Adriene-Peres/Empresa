@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Empresa
+comment1.params=nome\ cnps
+comment1.target=Empresa(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Empresa\r\n
+comment2.params=f
+comment2.target=void\ admitirFuncionario(Funcionarios)
+comment2.text=\r\n\ m\u00E9todo\ para\ se\ admitir\ um\ novo\ funcion\u00E1rio\ na\ empresa.\r\n
+comment3.params=
+comment3.target=void\ gerarFolhaDePagamento()
+numComments=4

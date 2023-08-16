@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Funcionario_Comissionado
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Funcionario_Comissionado\ aqui.\r\n\ \r\n\ @author\ Adriene\ Peres\ \r\n\ @version\ 30/01/2023\r\n
+comment1.params=n\ c\ tv\ tc
+comment1.target=Funcionario_Comissionado(java.lang.String,\ java.lang.String,\ int,\ double)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Funcionario_Comissionado\r\n
+comment2.params=
+comment2.target=int\ getTotalVendas()
+comment2.text=\r\n\r\n
+comment3.params=
+comment3.target=double\ getTaxaComissao()
+comment4.params=
+comment4.target=double\ calcularSalario()
+numComments=5

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Funcionario_Horista
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Funcionario_Horista\ aqui.\r\n\ \r\n\ @author\ Adriene\ Peres\ \r\n\ @version\ 30/01/2023\r\n
+comment1.params=n\ c\ sh\ ht
+comment1.target=Funcionario_Horista(java.lang.String,\ java.lang.String,\ double,\ double)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Funcionario_Horista\r\n
+comment2.params=
+comment2.target=double\ getSalarioHora()
+comment2.text=\r\n\ \r\n
+comment3.params=
+comment3.target=double\ getHorasTrabalhadas()
+comment4.params=
+comment4.target=double\ calcularSalario()
+numComments=5

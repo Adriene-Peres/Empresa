@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Funcionarios
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Funcionarios\ aqui.\r\n\ \r\n\ @author\ Adriene\ Peres\ \r\n\ @version\ 30/01/2023\r\n
+comment1.params=n\ c
+comment1.target=Funcionarios(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Funcionarios\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=
+comment3.target=java.lang.String\ getCpf()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ sobrescrita\ do\ metodo\ toString()\ para\ poder\ retornar\ uma\ especiede\ relatorio\ para\ o\ usuario.\r\n
+comment5.params=
+comment5.target=double\ calcularSalario()
+numComments=6
